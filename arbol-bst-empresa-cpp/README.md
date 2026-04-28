@@ -1,10 +1,6 @@
 # Árbol BST Empresarial en C++
 
-## Integrantes
-- Nombre 1
-- Nombre 2
-- Nombre 3
-- Nombre 4
+
 
 ## Objetivo
 Implementar un árbol binario de búsqueda (BST) en C++ para organizar empleados de una empresa usando un código numérico como clave.
